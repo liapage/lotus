@@ -1,0 +1,14 @@
+{
+  "name": "lobelia",
+  "version-string": "0.0.1",
+  "dependencies": [
+    {
+      "name": "sdl3",
+      "features": [
+        "vulkan"
+      ]
+    },
+    "sdl3-image",
+    "sdl3-ttf"
+  ]
+}
